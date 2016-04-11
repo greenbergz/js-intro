@@ -1,8 +1,9 @@
 var cat = "helloWorld";
 
 alert(cat);
-
+var heading = "";
 var content ="";
-content += "<h1>This heading</h1>";
-content += "<p> sdgh fshjkfhsd fkjhsd </p>"
+heading += "This heading";
+content += "<h1> heading </h1>"
+contnet += " <p> content stuff </p>"
 document.write(content);
